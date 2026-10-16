@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<employees>
+    <employee>
+        <employee_id>123</employee_id>
+        <full_name>qwe qwe qwe</full_name>
+        <position>qwe</position>
+        <salary>123.0</salary>
+        <department>ew</department>
+    </employee>
+</employees>
